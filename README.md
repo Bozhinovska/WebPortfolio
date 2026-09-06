@@ -41,7 +41,7 @@ my_portfolio/
 | Quiz Application | Flask, Python, OOP | [Link](https://github.com/Bozhinovska/Quiz-App) |
 | Pong Game | Python, Turtle | [Link](https://github.com/Bozhinovska/PongGame) |
 | Snake Game | Python, Turtle | [Link](https://github.com/Bozhinovska/SnakeGame) |
-| Web Portfolio | HTML, CSS, JS | [Link] (https://github.com/Bozhinovska/WebPortfolio) |
+| Web Portfolio | HTML, CSS, JS | [Link](https://github.com/Bozhinovska/WebPortfolio) |
 
 ## How to Run Locally
 
