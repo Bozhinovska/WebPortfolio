@@ -203,3 +203,73 @@ button {
     width: 100%;
   }
 }
+@media (max-width: 900px) {
+
+  #about_me {
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+
+  .photo {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .aboutme {
+    width: 100%;
+    text-align: left;
+  }
+
+
+  #experience .card {
+    width: 100%;
+    min-width: unset;
+  }
+
+  #experience .container {
+    padding: 20px;
+  }
+
+
+  #contact {
+    font-size: 24px;
+    padding: 40px 20px;
+  }
+
+  .icons {
+    font-size: 36px;
+  }
+
+
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .buttons .button {
+    margin-right: 0;
+  }
+
+
+  .left-side #name {
+    font-size: 50px;
+  }
+
+
+  .gif {
+    width: 220px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .left-side #name {
+    font-size: 40px;
+  }
+
+  #contact {
+    font-size: 18px;
+  }
+}
